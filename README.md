@@ -1,18 +1,14 @@
-### Hello, eu sou o Marcos Coelho, seja bem vindo ao meu GitHub 👋
+# Hello, my name is Marcos Coelho, welcome to my Github 👋
 
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosCoelhoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCoelhoo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+I'm 19 years old and studying Systems Analysis and Development in college, I also study web development and UI/UX design on my own
 
-### Ferramentas que uso atualmente
+### I currently use
 
 <div style="display: inline_block"><br>
   <img align="center" alt="marcos-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="marcos-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="marcos-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+  <img align="center" alt="marcos-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 
 ##
 
