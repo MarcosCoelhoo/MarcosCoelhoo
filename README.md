@@ -14,7 +14,7 @@
 
 -  Linguagens e frameworks: 
 
- [![My Skills](https://skillicons.dev/icons?i=javascript,react,html,css,nodejs,mysql)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=javascript,react,html,css,nodejs)](https://skillicons.dev)
 
 - Ferramentos que uso:
 
